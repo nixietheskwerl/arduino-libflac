@@ -21,5 +21,5 @@ This is just one of many __codecs__ that I have collected so far: Further detail
 
 ## Dependencies
 
-This library requires [arduino-libopus](https://github.com/pschatzmann/arduino-libopus)
+This library requires [codecogg](https://github.com/pschatzmann/codec-ogg)
 

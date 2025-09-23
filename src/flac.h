@@ -9,8 +9,8 @@
  * 
  */
 #pragma once
-
-#include "opus.h"
+// depends on https://github.com/pschatzmann/codec-ogg
+#include "ogg.h"
 #include "share/compat.h"
 #include "FLAC/stream_decoder.h"
 #include "FLAC/stream_encoder.h"
